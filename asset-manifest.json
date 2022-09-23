@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d2480cf.css",
-    "main.js": "/static/js/main.d6d35eee.js",
+    "main.css": "/static/css/main.65a6e303.css",
+    "main.js": "/static/js/main.a3f600de.js",
     "static/media/img_self.png": "/static/media/img_self.f643e3def523928d2a7d.png",
     "static/media/Vrushali_Kajave_Resume.pdf": "/static/media/Vrushali_Kajave_Resume.f3fb99a5308d18fbf87d.pdf",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.1d2480cf.css.map": "/static/css/main.1d2480cf.css.map",
-    "main.d6d35eee.js.map": "/static/js/main.d6d35eee.js.map"
+    "main.65a6e303.css.map": "/static/css/main.65a6e303.css.map",
+    "main.a3f600de.js.map": "/static/js/main.a3f600de.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d2480cf.css",
-    "static/js/main.d6d35eee.js"
+    "static/css/main.65a6e303.css",
+    "static/js/main.a3f600de.js"
   ]
 }
